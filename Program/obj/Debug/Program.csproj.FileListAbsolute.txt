@@ -1,0 +1,10 @@
+E:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic-List\Program\bin\Debug\Program.exe.config
+E:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic-List\Program\bin\Debug\Program.exe
+E:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic-List\Program\bin\Debug\Program.pdb
+E:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic-List\Program\bin\Debug\Generic List.exe
+E:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic-List\Program\bin\Debug\Generic List.pdb
+E:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic-List\Program\obj\Debug\Program.exe
+E:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic-List\Program\obj\Debug\Program.pdb
+E:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic-List\Program\bin\Debug\Generic List.exe.config
+E:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic-List\Program\obj\Debug\Program.csprojAssemblyReference.cache
+E:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic-List\Program\obj\Debug\Program.csproj.CopyComplete

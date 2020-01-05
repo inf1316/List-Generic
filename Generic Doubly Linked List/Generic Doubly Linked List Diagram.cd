@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Generic_Doubly_Linked_List.DoublyLinkedList&lt;T&gt;">
+    <Position X="0.75" Y="0.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="Generic_Doubly_Linked_List.DoublyLinkedList&lt;T&gt;.LinkedListNode" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DoublyLinkedList.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="Generic_Doubly_Linked_List.DoublyLinkedList&lt;T&gt;.Enumerator" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DoublyLinkedList.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AGJICAAAgAAACBAECoAUFAQAAAAYABgACAECAMhUIBA=</HashCode>
+      <FileName>DoublyLinkedList.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

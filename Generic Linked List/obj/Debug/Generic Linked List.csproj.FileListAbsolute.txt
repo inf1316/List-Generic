@@ -1,0 +1,17 @@
+D:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic List\Generic Linked List\bin\Debug\Generic Linked List.exe.config
+D:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic List\Generic Linked List\bin\Debug\Generic Linked List.exe
+D:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic List\Generic Linked List\bin\Debug\Generic Linked List.pdb
+D:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic List\Generic Linked List\obj\Debug\Generic Linked List.csprojResolveAssemblyReference.cache
+D:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic List\Generic Linked List\obj\Debug\Generic Linked List.exe
+D:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic List\Generic Linked List\obj\Debug\Generic Linked List.pdb
+D:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic-List\Generic Linked List\bin\Debug\Generic Linked List.exe.config
+D:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic-List\Generic Linked List\bin\Debug\Generic Linked List.exe
+D:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic-List\Generic Linked List\bin\Debug\Generic Linked List.pdb
+D:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic-List\Generic Linked List\obj\Debug\Generic Linked List.csprojResolveAssemblyReference.cache
+D:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic-List\Generic Linked List\obj\Debug\Generic Linked List.exe
+D:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic-List\Generic Linked List\obj\Debug\Generic Linked List.pdb
+E:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic-List\Generic Linked List\bin\Debug\Generic Linked List.exe.config
+E:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic-List\Generic Linked List\bin\Debug\Generic Linked List.exe
+E:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic-List\Generic Linked List\bin\Debug\Generic Linked List.pdb
+E:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic-List\Generic Linked List\obj\Debug\Generic Linked List.exe
+E:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic-List\Generic Linked List\obj\Debug\Generic Linked List.pdb

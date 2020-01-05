@@ -1,0 +1,17 @@
+D:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic List\Generic List\bin\Debug\Generic List.exe.config
+D:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic List\Generic List\bin\Debug\Generic List.exe
+D:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic List\Generic List\bin\Debug\Generic List.pdb
+D:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic List\Generic List\obj\Debug\Generic List.exe
+D:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic List\Generic List\obj\Debug\Generic List.pdb
+D:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic List\Generic List\obj\Debug\Generic List Sequential.csprojResolveAssemblyReference.cache
+D:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic-List\Generic List\obj\Debug\Generic List Sequential.csprojResolveAssemblyReference.cache
+D:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic-List\Generic List\bin\Debug\Generic List.exe.config
+D:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic-List\Generic List\bin\Debug\Generic List.exe
+D:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic-List\Generic List\bin\Debug\Generic List.pdb
+D:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic-List\Generic List\obj\Debug\Generic List.exe
+D:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic-List\Generic List\obj\Debug\Generic List.pdb
+E:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic-List\Generic List\bin\Debug\Generic List.exe.config
+E:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic-List\Generic List\bin\Debug\Generic List.exe
+E:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic-List\Generic List\bin\Debug\Generic List.pdb
+E:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic-List\Generic List\obj\Debug\Generic List.exe
+E:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic-List\Generic List\obj\Debug\Generic List.pdb
