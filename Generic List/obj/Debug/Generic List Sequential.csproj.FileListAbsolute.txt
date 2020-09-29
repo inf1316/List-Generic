@@ -15,3 +15,6 @@ E:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic-List\Generic List
 E:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic-List\Generic List\bin\Debug\Generic List.pdb
 E:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic-List\Generic List\obj\Debug\Generic List.exe
 E:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Terminados\Generic-List\Generic List\obj\Debug\Generic List.pdb
+C:\Users\mclan\OneDrive\Escritorio\GitHub\List-Generic\Generic List\bin\Debug\Generic List.exe.config
+C:\Users\mclan\OneDrive\Escritorio\GitHub\List-Generic\Generic List\obj\Debug\Generic List.exe
+C:\Users\mclan\OneDrive\Escritorio\GitHub\List-Generic\Generic List\obj\Debug\Generic List.pdb
